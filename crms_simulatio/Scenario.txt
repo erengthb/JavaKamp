@@ -1,0 +1,8 @@
+
+                                         SCENARİO (Code with java)
+
+We want to write a system that does customer management for coffee shops
+We are working for starbucks and nero company
+Both companies want to register their customer in database
+Starbuck wants mernis verification when registering customers, nero doesn't want anything like that
+Starbucks wants to earn stars on every coffee purchase for its customers
