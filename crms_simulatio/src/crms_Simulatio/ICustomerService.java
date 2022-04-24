@@ -1,6 +1,6 @@
-package Abstract;
+package crms_Simulatio;
 
-import Entities.Customer;
+
 
 public interface ICustomerService {
 

@@ -1,20 +1,20 @@
-package Entities;
+package crms_Simulatio;
 
-import Abstract.IEntity;
+
 
 public class Customer implements IEntity {
 
-	public int Id;
+	public String Id;
 	public String FirstName;
 	public String LastName;
 	public int Age;
 	public String NationalIdentity;
 	
 	
-	public int getId() {
+	public String getId() {
 		return Id;
 	}
-	public void setId(int id) {
+	public void setId(String id) {
 		Id = id;
 	}
 	public String getFirstName() {
